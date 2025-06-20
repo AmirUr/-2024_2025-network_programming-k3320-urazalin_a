@@ -28,3 +28,7 @@
 
 <img width="323" alt="image" src="https://github.com/user-attachments/assets/21e1af22-056b-4d94-984e-bfd2fc14c565" />
 
+Схема:
+
+![image](https://github.com/user-attachments/assets/35f22f8e-15ce-4694-a2f7-b53500cc01a8)
+
