@@ -1,4 +1,20 @@
 
+University: [ITMO University](https://itmo.ru/ru/)
+
+Faculty: [FICT](https://fict.itmo.ru)
+
+Course: [Network programming](https://github.com/itmo-ict-faculty/network-programming)
+
+Year: 2024/2025
+
+Group: K3320
+
+Author: Urazalin Amir
+
+Date of create: 20.06.2025
+
+Date of finished: 20.06.2025
+
 # Лабораторная работа 4
 
 Установим вагрант через впн и раскатим виртуальную машину
