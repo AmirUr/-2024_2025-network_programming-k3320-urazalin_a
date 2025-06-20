@@ -34,7 +34,8 @@ Date of finished: 20.06.2025
 
 Конфигурация применилась на роутер после раскатки плейбука.
 
-<img width="675" alt="image" src="https://github.com/user-attachments/assets/135abe23-3b00-4e59-ae13-aa12104e6822" />
+<img width="375" alt="image" src="https://github.com/user-attachments/assets/97b0d5ea-22f7-4ba2-bb42-9a6bcd00bf99" />
+
 
 Настроим сбор серийных номеров и внос в нетбокс, напишем плейбук, проверим, что после раскатки в нетбоксе добавился серийник.
 
