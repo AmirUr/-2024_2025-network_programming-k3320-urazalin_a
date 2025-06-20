@@ -14,7 +14,7 @@ Date of create: 10.06.2025
 
 Date of finished: 20.06.2025
 
-## Создание второго CHR Mikrotik
+## Лабораторная работа 2
 
 Создал второй CHR через клонирование виртуальной машины от первой, также настроил его
 
@@ -24,4 +24,11 @@ Date of finished: 20.06.2025
 
 <img width="678" alt="image" src="https://github.com/user-attachments/assets/b64c8d20-5a32-4af8-aafd-1d2728c9d458" />
 
+Написал плейбук, настроил создание пользователя с логином и паролем, настроил NTP и OSPF
+
+<img width="657" alt="image" src="https://github.com/user-attachments/assets/94fef7b8-a7c8-47c9-93d3-005d206c8a55" />
+
+Запустил плейбук через ansible-playbook playbook.yaml, все успешно применилось и конфигурация раскатилась на микротики
+
+<img width="390" alt="image" src="https://github.com/user-attachments/assets/132bfd35-502b-4925-bb5c-d628cd580932" />
 
